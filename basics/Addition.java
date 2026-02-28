@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Example{
+public class Addition{
     public static void main(String ar[]){
         Scanner sc=new Scanner(System.in);
         System.out.print("enter first number");
